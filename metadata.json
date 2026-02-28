@@ -1,0 +1,5 @@
+{
+  "name": "Super AI System Control Panel",
+  "description": "A comprehensive dashboard for managing a Super AI System, integrating multi-agent architecture, memory, execution engines, and automation workflows.",
+  "requestFramePermissions": []
+}
